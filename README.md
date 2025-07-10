@@ -76,5 +76,4 @@ O modelo foi elaborado em **modelo EER (Entidade-Relacionamento Estendido)**, in
 ## 🧑‍💻 Autor
 
 **Luis Fernando Sosnoski de Souza**  
-[](https://github.com/lfssouza)]  
 Curso: SQL Database Specialist
