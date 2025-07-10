@@ -6,7 +6,7 @@ Este projeto apresenta o **esquema conceitual e lógico** de um sistema de contr
 
 ## 📘 Contexto
 
-Clientes levam veículos à oficina mecânica para manutenção corretiva ou revisões periódicas. Cada veículo é avaliado por uma **equipe de mecânicos**, que identifica os serviços necessários, consulta uma tabela de mão de obra, estima o custo total (incluindo peças), e preenche uma **Ordem de Serviço (OS)** com data de entrega prevista. Os serviços são realizados mediante autorização do cliente.
+Clientes levam veículos à oficina mecânica para manutenção corretiva ou revisões periódicas. Cada veículo é avaliado por uma **equipe de mecânicos**, que identifica os serviços necessários, consulta uma tabela de mão de obra, estima o custo total (incluindo peças), e preenche uma **Ordem de Serviço (OS)**. Os serviços são realizados mediante autorização do cliente.
 
 ---
 
@@ -16,7 +16,6 @@ Criar um **esquema conceitual** de banco de dados relacional para suportar o flu
 - Registro de clientes, veículos e mecânicos
 - Acompanhamento de ordens de serviço
 - Controle de peças e mão de obra
-- Consulta histórica de serviços realizados
 
 ---
 
@@ -74,22 +73,8 @@ O modelo foi elaborado em **modelo EER (Entidade-Relacionamento Estendido)**, in
 
 ---
 
-## 📌 Próximos Passos
-
-- Implementar o banco de dados real em MySQL/PostgreSQL
-- Criar interface web ou desktop para gerenciamento
-- Desenvolver relatórios e painel de controle para a oficina
-
----
-
 ## 🧑‍💻 Autor
 
-**Seu Nome**  
-[Seu LinkedIn ou GitHub]  
-Curso/Semestre, Universidade
-
----
-
-## 📄 Licença
-
-Este projeto é open source sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+**Luis Fernando Sosnoski de Souza**  
+[](https://github.com/lfssouza)]  
+Curso: SQL Database Specialist
